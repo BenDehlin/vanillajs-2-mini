@@ -45,6 +45,10 @@ li[aria-checked="true"] {
   visibility: hidden;
 }
 
+#incomplete-message{
+  visibility: hidden;
+}
+
 button {
   border: none;
   border-radius: 10px;
